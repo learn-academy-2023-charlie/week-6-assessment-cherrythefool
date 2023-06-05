@@ -54,12 +54,21 @@ This will use the Destroy method, and will delete the student at location 2.
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. [Here is a resource](https://www.atlassian.com/agile/project-management/user-stories) to help you create your user stories.
 
 As a user, I can see a home page
+
 As a user, I can see the names of to-do list tasks on the home page as a link
+
 As a user, I can add a new to-do list task with name of task, status, extra information, and dependencies
+
 As a user, I can edit to-do list task information
+
 As a user, I can mark to-do list tasks as complete
+
 As a user, I can see all tasks which share a status
+
 As a user, I can delete individual tasks and can delete all tasks marked complete
+
 As a user, I can find all tasks which depend on each other
+
 As a user, I can see a visual representation of how these tasks depend on each other (like a web or gantt style chart)
+
 As a user, the to-do list application is easy to use and to look at
